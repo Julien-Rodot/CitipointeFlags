@@ -1,6 +1,9 @@
 {
 
     "FFlagTestFlag": true,
-    "DFFlagDisableChat": false
+    "DFFlagDisableChat": false,
+    "DFFlagDisablePlayerList": true,
+    "DFFlagWavesEnabled": false,
+    "FFlagFlauraWindPhysicsEnabled": true
 
 }
